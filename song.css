@@ -1,0 +1,26 @@
+*{
+ margin:0px;
+ padding:0px;
+
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    height:100px;
+    background-color:#f9b49b;
+    display:flex;
+    justify-content:flex-start;`
+    align-items: center;
+}
+ 
+.search{
+    width:800px;
+    height:30px;
+
+    margin-left:200px;
+    text-align: center;
+}
+.ko{
+    /* margin-left:850px; */
+}
